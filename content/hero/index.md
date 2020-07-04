@@ -1,8 +1,10 @@
 ---
-title: 'Hi, my name is'
-name: 'Brittany Chiang'
-subtitle: 'I build things for the web.'
+title: 'Hello, my name is'
+name: 'Chandrika Deb'
+subtitle: 'I love exploring new things!'
 buttonText: 'Get In Touch'
 ---
 
-I'm a software engineer based in Boston, MA specializing in building (and occasionally designing) exceptional websites, applications, and everything in between.
+I'm an incoming Software Engineer at Amdocs, India. Primarily interested in Web Development and Deep Learning.
+
+I enjoy writing tech blogs and also helping every tech beginner I come across!

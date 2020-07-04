@@ -1,19 +1,19 @@
 ---
 title: 'About Me'
-avatar: './me.jpg'
+avatar: 'me.jpg'
 skills:
-  - JavaScript (ES6+)
-  - HTML & (S)CSS
-  - React
-  - Vue
-  - Node.js
-  - WordPress
+  - Tech Blogging
+  - Pencil Sketch
+  - Kathak Dance
+  - Public Speaking
+  - Team Management
+  - Mentoring
 ---
 
-Hello! I'm Brittany, a software engineer based in Boston, MA.
+Hello! I'm Chandrika Deb, from Jamshedpur, also known as Pittsburgh of India.
 
-I enjoy creating things that live on the internet, whether that be websites, applications, or anything in between. My goal is to always build products that provide pixel-perfect, performant experiences.
+Currently, I'm the Chapter Lead of [GirlScript Foundation](https://www.girlscript.tech/) for my city Jamshedpur and Tech Content Writer for [Open Source Code](https://opensourcecode.tech/)
 
-Shortly after graduating from [Northeastern University](https://www.ccis.northeastern.edu/), I joined the engineering team at [Upstatement](https://www.upstatement.com/) where I work on a wide variety of interesting and meaningful projects on a daily basis.
+Shortly after graduating from [BIT Mesra](https://www.bitmesra.ac.in/), I will be joining the Revenue Management (RM) team at [Amdocs](https://www.amdocs.com/), Pune.
 
-Here are a few technologies I've been working with recently:
+Here are a few of the other activities that I love to do!
