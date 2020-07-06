@@ -86,7 +86,7 @@ const StyledTechList = styled.ul`
       margin-right: 0;
     }
     ${media.thone`
-      color: ${colors.lightestSlate};
+      color: ${colors.green};
       margin-right: 10px;
     `};
   }

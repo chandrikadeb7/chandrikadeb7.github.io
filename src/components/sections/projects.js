@@ -114,7 +114,7 @@ const StyledTechList = styled.ul`
   li {
     font-family: ${fonts.SFMono};
     font-size: ${fontSizes.xs};
-    color: ${colors.slate};
+    color: ${colors.green};
     line-height: 1.75;
     margin-right: 15px;
     &:last-of-type {

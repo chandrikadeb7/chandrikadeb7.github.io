@@ -11,4 +11,4 @@ tech:
 showInProjects: true
 ---
 
-Portfolio Website hosted using GitHub Pages.
+Portfolio Website Version 1 hosted using GitHub Pages. Updates coming soon!
