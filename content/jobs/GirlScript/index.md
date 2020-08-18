@@ -13,3 +13,4 @@ url: 'https://www.girlscript.tech/'
 - Managed and organised the following events:
   - CODERANTINE (5 day online coding bootcamp)
   - Effective Resume & Online Profile Building (3 day event, mentored Day-1)
+  - Pen in {CSS} (A Pure CSS art contest on Codepen.io)
