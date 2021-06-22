@@ -34,11 +34,12 @@ const StyledArchiveLink = styled(Link)`
 `;
 const StyledGrid = styled.div`
   margin-top: 50px;
+  margin-left: 10%;
 
   .projects {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-    grid-gap: 15px;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    grid-gap: 5px;
     position: relative;
     ${media.desktop`grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));`};
   }
@@ -215,10 +216,6 @@ const Projects = ({ data }) => {
             })}
         </TransitionGroup>
       </StyledGrid>
-
-      <StyledMoreButton onClick={() => setShowMore(!showMore)}>
-        Show {showMore ? 'Less' : 'More'}
-      </StyledMoreButton>
     </StyledContainer>
   );
 };

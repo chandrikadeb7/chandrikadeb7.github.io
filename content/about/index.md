@@ -2,20 +2,18 @@
 title: 'About Me'
 avatar: 'me.jpg'
 skills:
-  - Tech Blogging
-  - Pencil Sketch
-  - Kathak Dance
-  - Public Speaking
-  - Team Management
-  - Mentoring
+  - Java Enterprise
+  - Spring MVC & Maven
+  - Jenkins (CI/CD) 
+  - Kafka & Couchbase
+  - JUnit & TestNG
+  - IntelliJ Idea
 ---
 
-Hello! I'm Chandrika Deb, from Jamshedpur, also known as Pittsburgh of India.
+Hello! Interestingly, I have been a student of Bio-Maths in my high school. Got introduced to programming in my freshman year at [BIT Mesra](https://www.bitmesra.ac.in/), since then I started developing web and ML projects and completed my Bachelors in Computer Science and Engineering (2016-2020) with [86.3% aggregate](https://drive.google.com/file/d/1G4UBPBP0mvWZLRdkF_EcpmKKGp7_OA8U/view?usp=sharing). 
 
-A Software Engineering Associate in the Digital Delivery team at [Amdocs](https://www.amdocs.com/), India.
+Today, I'm currently working as a scrum developer responsible for several microservices code development and testing in Amdocs Technology Billing and RTB project.
 
-I have completed my Bachelors from [BIT Mesra](https://www.bitmesra.ac.in/) in Computer Science and Engineering (2016-2020) with [86.3% aggregate](https://drive.google.com/file/d/1G4UBPBP0mvWZLRdkF_EcpmKKGp7_OA8U/view?usp=sharing). 
+I have also been awarded as Winner in Design Thinking Hackathon and Runners-Up in [Project ICE Fair](https://drive.google.com/file/d/1laynNsd9hIqxL-imT8dkAWqq7ZO4hj1a/view?usp=sharing) by Amdocs.
 
-I have also been awarded as Runners-Up in [Project ICE(Innovative and Creative Environment) Fair](https://drive.google.com/file/d/1laynNsd9hIqxL-imT8dkAWqq7ZO4hj1a/view?usp=sharing) by Amdocs.
-
-Here are a few of the other activities that I love to do!
+Here is a list of the technologies that I work with in Amdocs!

@@ -9,7 +9,7 @@ tech:
   - HTML
   - CSS
 company: ''
-showInProjects: true
+showInProjects: false
 ---
 
 A Chabot based social networking website having a text-based user interface for quick responses to institute related queries.

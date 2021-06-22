@@ -9,7 +9,7 @@ tech:
   - HTML
   - CSS
   - Javascript
-showInProjects: true
+showInProjects: false
 ---
 
 Contains the submitted patch files of the various tasks assigned by JPMorgan Chase & Co. Software Engineering Virtual Internship

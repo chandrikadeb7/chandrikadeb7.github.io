@@ -2,9 +2,11 @@
 title: 'Hello, my name is'
 name: 'Chandrika Deb'
 subtitle: 'I love exploring new things!'
-buttonText: 'Get In Touch'
+buttonText: 'Hire Me!'
 ---
 
-I'm a Software Engineering Associate at Amdocs, India. Primarily interested in Web Development and Deep Learning.
+I'm an India based developer with a goal-driven creative mindset andpassion for learning and innovating. Currently working as a Software Engineering Associate at [Amdocs](https://www.amdocs.com/). 
 
-I enjoy writing tech blogs and also helping every tech beginner I come across!
+Outside work, I occasionally blog on [Medium](https://chandrikadeb7.medium.com/) or create amateur #PureCSS [Codepen](https://codepen.io/chandrikadeb7). 
+
+When off-screen, I sketch my thoughts [here](https://pin.it/4W1Rxtj)!
