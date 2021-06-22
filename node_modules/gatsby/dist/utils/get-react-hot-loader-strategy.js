@@ -1,0 +1,32 @@
+"use strict";
+
+var _interopRequireDefault = require("@babel/runtime/helpers/interopRequireDefault");
+
+exports.__esModule = true;
+exports.getReactHotLoaderStrategy = getReactHotLoaderStrategy;
+
+var _semver = _interopRequireDefault(require("semver"));
+
+// Fast refresh is supported as of React 16.9.
+// This package will do some sniffing to see if the current version of
+// React installed is greater than 17.0.
+function getReactHotLoaderStrategy() {
+  // If the user has defined this, we don't want to do any package sniffing
+  if (process.env.GATSBY_HOT_LOADER) return process.env.GATSBY_HOT_LOADER; // If the config flag is true, return fast-refresh
+
+  if (process.env.GATSBY_FAST_REFRESH) return `fast-refresh`; // Do some package sniffing to see if we can use fast-refresh if the user didn't
+  // specify a specific hot loader with the environment variable.
+
+  try {
+    const reactVersion = require(`react/package.json`).version;
+
+    if (_semver.default.satisfies(reactVersion, `>=17.0.0`)) {
+      return `fast-refresh`;
+    }
+  } catch (e) {
+    return `react-hot-loader`;
+  }
+
+  return `react-hot-loader`;
+}
+//# sourceMappingURL=get-react-hot-loader-strategy.js.map
