@@ -4,13 +4,13 @@ avatar: 'me.jpg'
 skills:
   - Java Enterprise
   - Spring MVC & Maven
-  - Jenkins (CI/CD) 
+  - Jenkins (CI/CD)
   - Kafka & Couchbase
   - JUnit & TestNG
   - IntelliJ Idea
 ---
 
-Hello! Interestingly, I have been a student of Bio-Maths in my high school. Got introduced to programming in my freshman year at [BIT Mesra](https://www.bitmesra.ac.in/), since then I started developing web and ML projects and completed my Bachelors in Computer Science and Engineering (2016-2020) with [86.3% aggregate](https://drive.google.com/file/d/1G4UBPBP0mvWZLRdkF_EcpmKKGp7_OA8U/view?usp=sharing). 
+Hello! Interestingly, I have been a student of Bio-Maths in my high school and got introduced to programming in my freshman year at [BIT Mesra](https://www.bitmesra.ac.in/). Since then, I started developing Web and ML projects, and completed my Bachelors in Computer Science and Engineering (2016-2020) with [86.3% aggregate](https://drive.google.com/file/d/1G4UBPBP0mvWZLRdkF_EcpmKKGp7_OA8U/view?usp=sharing).
 
 Today, I'm currently working as a scrum developer responsible for several microservices code development and testing in Amdocs Technology Billing and RTB project.
 
