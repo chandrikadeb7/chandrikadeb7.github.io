@@ -6,7 +6,6 @@ github: 'https://github.com/chandrikadeb7/Face-Mask-Detection'
 external: 'https://www.youtube.com/watch?v=AAkNyZlUae0'
 tech:
   - OpenCV
-  - MobileNetV2
   - TensorFlow
   - Keras
   - Python
