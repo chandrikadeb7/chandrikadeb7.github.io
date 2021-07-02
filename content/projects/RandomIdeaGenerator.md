@@ -8,7 +8,7 @@ tech:
   - Android Studio
   - unDraw
 company: ''
-showInProjects: false
+showInProjects: true
 ---
 
 This project was developed as part of Google's [#30DaysOfKotlin](https://eventsonair.withgoogle.com/events/kotlin) program

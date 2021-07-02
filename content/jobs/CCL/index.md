@@ -1,7 +1,7 @@
 ---
 date: '2019-05-10'
 title: 'Systems Intern'
-company: 'CCL Ranchi'
+company: 'CCL'
 range: 'May - June 2019'
 url: 'http://www.centralcoalfields.in/ind/'
 ---

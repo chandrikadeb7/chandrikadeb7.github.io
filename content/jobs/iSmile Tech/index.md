@@ -1,7 +1,7 @@
 ---
 date: '2020-07-15'
 title: 'Technical Writer'
-company: 'iSmile Technologies'
+company: 'iSmile Tech'
 range: 'July 2020 - August 2020'
 url: 'https://www.ismiletechnologies.com/'
 ---

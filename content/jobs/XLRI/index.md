@@ -1,7 +1,7 @@
 ---
 date: '2018-05-10'
 title: 'Research Intern'
-company: 'XLRI Jamshedpur'
+company: 'XLRI'
 range: 'May - June 2018'
 url: 'https://www.xlri.ac.in/'
 ---
