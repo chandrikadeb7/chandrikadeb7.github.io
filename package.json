@@ -1,11 +1,11 @@
 {
-  "name": "v2",
-  "description": "Personal Website V2",
+  "name": "Khushnood Asif",
+  "description": "Portfolio Website",
   "version": "1.0.0",
-  "author": "Chandrika Deb <chandrikadeb7@gmail.com>",
+  "author": "Khushnood Asif <khushnood99@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/chandrikadeb7/chandrikadeb7.github.io"
+    "url": "https://github.com/khushnoodasif/portfolio-website"
   },
   "keywords": [
     "gatsby"

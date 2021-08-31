@@ -1,38 +1,33 @@
 module.exports = {
-  siteTitle: 'Chandrika Deb | Software Engineer',
+  siteTitle: 'Khushnood Asif | Software Engineer',
   siteDescription:
-    'Chandrika Deb is a Software Engineer at Amdocs, who loves learning new things and helping tech beginners.',
+    'Khushnood Asif is a mechanical engineer/software engineer based in London, UK who develops projects using the latest web technologies and frameworks.',
   siteKeywords:
-    'Chandrika Deb, Chandrika, Deb, chandrikadeb7, software engineer, face mask, face mask detection, web developer, javascript, girlscript, jamshedpur, amdocs, bit, mesra, deoghar',
-  siteUrl: 'https://chandrikadeb7.github.io/',
-  siteLanguage: 'en_US',
-  googleAnalyticsID: 'UA-45666519-2',
-  googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
-  name: 'Chandrika Deb',
-  location: 'Jamshedpur, India',
-  email: 'chandrikadeb7@gmail.com',
-  github: 'https://github.com/chandrikadeb7',
-  twitterHandle: '@chandrikadeb7',
+    'Khushnood Asif, Khushnood, Asif, khushnood-asif, software engineer, front-end engineer, web developer, java, javascript, europe, mechanical engineer',
+  siteUrl: 'https://khushnoodasif.com',
+  siteLanguage: 'en_UK',
+  googleAnalyticsID: 'G-J94JXK50X3',
+  name: 'Khushnood Asif',
+  location: 'London, UK',
+  email: 'khushnood99@gmail.com',
+  github: 'https://github.com/khushnoodasif',
+  twitterHandle: '@kush_a9_',
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/chandrikadeb7',
+      url: 'https://github.com/khushnoodasif',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/chandrika-deb/',
-    },
-    {
-      name: 'Codepen',
-      url: 'https://codepen.io/chandrikadeb7',
+      url: 'https://www.linkedin.com/in/khushnoodasif',
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/___cd.___/',
+      url: 'https://www.instagram.com/kush_a9_',
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/chandrikadeb7',
+      url: 'https://twitter.com/kush_a9_',
     },
   ],
 
@@ -48,6 +43,10 @@ module.exports = {
     {
       name: 'Projects',
       url: '/#projects',
+    },
+    {
+      name: 'Blog',
+      url: 'http://blog.khushnoodasif.com',
     },
     {
       name: 'Contact',
