@@ -3,7 +3,7 @@ module.exports = {
   siteDescription:
     'Just a random fella :)',
   siteKeywords:
-    'Chandrika Deb, Chandrika, Deb, chandrikadeb7, software engineer, face mask, face mask detection, web developer, javascript, girlscript, jamshedpur, amdocs, bit, mesra, deoghar',
+    'XR7',
   siteUrl: 'https://xr7777.github.io/',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
