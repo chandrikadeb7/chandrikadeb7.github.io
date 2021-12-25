@@ -1,9 +1,9 @@
 ---
 date: '2020-07-30'
 title: 'Software Engineering Associate'
-company: 'Amdocs'
+company: 'XR7'
 range: 'July 2020 - Present'
-url: 'https://www.amdocs.com/'
+url: 'https://www.discord.com/'
 ---
 
 - Certified in Agile, [DevOps](https://drive.google.com/file/d/133QWdIhw9KI0YMKs1SPI_6VQ1ENtMiCe/view?usp=sharing), and MS360 architecture.
