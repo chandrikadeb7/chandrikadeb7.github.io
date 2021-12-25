@@ -1,22 +1,22 @@
 module.exports = {
-  siteTitle: 'Chandrika Deb | Software Engineer',
+  siteTitle: 'XR7 | :)',
   siteDescription:
-    'Chandrika Deb is a Software Engineer at Amdocs, who loves learning new things and helping tech beginners.',
+    'Just a random fella :)',
   siteKeywords:
     'Chandrika Deb, Chandrika, Deb, chandrikadeb7, software engineer, face mask, face mask detection, web developer, javascript, girlscript, jamshedpur, amdocs, bit, mesra, deoghar',
-  siteUrl: 'https://chandrikadeb7.github.io/',
+  siteUrl: 'https://xr7777.github.io/',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
   name: 'Chandrika Deb',
-  location: 'Jamshedpur, India',
-  email: 'chandrikadeb7@gmail.com',
-  github: 'https://github.com/chandrikadeb7',
+  location: 'Delhi, India',
+  email: 'Samirawm7@gmail.com',
+  github: 'https://github.com/XR7-Samir',
   twitterHandle: '@chandrikadeb7',
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/chandrikadeb7',
+      url: 'https://github.com/XR7-Samir',
     },
     {
       name: 'Linkedin',
@@ -24,15 +24,15 @@ module.exports = {
     },
     {
       name: 'Codepen',
-      url: 'https://codepen.io/chandrikadeb7',
+      url: 'https://codepen.io/',
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/___cd.___/',
+      url: 'https://www.instagram.com/lolwtf139',
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/chandrikadeb7',
+      url: 'https://twitter.com/',
     },
   ],
 
