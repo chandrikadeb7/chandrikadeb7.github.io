@@ -8,7 +8,7 @@ module.exports = {
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
-  name: 'Chandrika Deb',
+  name: 'XR7',
   location: 'Delhi, India',
   email: 'Samirawm7@gmail.com',
   github: 'https://github.com/XR7-Samir',
