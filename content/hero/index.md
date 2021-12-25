@@ -1,6 +1,6 @@
 ---
 title: 'Hello World! My name is'
-name: 'Chandrika Deb'
+name: 'XR7'
 subtitle: 'I love exploring new things!'
 buttonText: 'Hire Me!'
 ---
