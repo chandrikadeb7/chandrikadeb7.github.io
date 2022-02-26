@@ -7,7 +7,7 @@ tech:
   - Java
   - Sqlite
 company: ''
-showInProjects: true
+showInProjects: false
 ---
 
 Java Swing based project with MySQL database developed using Netbeans IDE

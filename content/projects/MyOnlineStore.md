@@ -9,7 +9,7 @@ tech:
   - HTML
   - CSS
 company: 'CCL'
-showInProjects: true
+showInProjects: false
 ---
 
 My first PHP project on dynamic eCommerce website development.
