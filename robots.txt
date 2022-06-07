@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://chandrikadeb7.github.io/sitemap/sitemap-index.xml
-Host: https://chandrikadeb7.github.io
+Sitemap: https://micahgalos.github.io/sitemap/sitemap-index.xml
+Host: https://micahgalos.github.io
