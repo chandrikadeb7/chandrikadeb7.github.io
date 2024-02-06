@@ -2,10 +2,10 @@
   "name": "v2",
   "description": "Personal Website V2",
   "version": "1.0.0",
-  "author": "Chandrika Deb <chandrikadeb7@gmail.com>",
+  "author": "Henry Mallon <hdmallon@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/chandrikadeb7/chandrikadeb7.github.io"
+    "url": "https://github.com/henrymallon/henrymallon.github.io"
   },
   "keywords": [
     "gatsby"
