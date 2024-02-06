@@ -5,8 +5,8 @@ subtitle: 'I love exploring new things!'
 buttonText: 'Contact Me'
 ---
 
-I'm an India based software developer with a goal-driven creative mindset and passion for learning and innovating.
+I'm a recent college graduate with degrees in [Computer Science] and [Brain and Cognitive Sciences], currently living in Redwood City, CA and open to exciting work opportunities.
 
-Currently working as a Software Developer at [Amdocs](https://www.amdocs.com/) and as a Freelance Content Writer for [Pepper Content](https://www.peppercontent.io).
+Exciting news! My research on detecting AI-generated images is now available at [IEEE Xplore](https://ieeexplore.ieee.org/document/10386096). Check it out if you're excited (or worried) about the future of AI. 
 
-Outside work, I occasionally blog on [Medium](https://chandrikadeb7.medium.com/). Off-screen, I sketch my thoughts [here](https://pin.it/4W1Rxtj)!
+On weekends, I'm either biking up the steepest roads in the Bay Area with Alto Velo Racing Team or taking my labradoodle on long hikes. 
