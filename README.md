@@ -5,7 +5,7 @@
   Portfolio Website Version 2
 </h1>
 <p align="center">
-  The second iteration of <a href="https://chandrikadeb7.github.io/" target="_blank">chandrikadeb7.github.io</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://pages.github.com/" target="_blank">Github Pages</a>
+  The second iteration of <a href="https://chandrikadeb7.github.io/" target="_blank">henrymallon.github.io</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://pages.github.com/" target="_blank">Github Pages</a>
 </p>
 <p align="center">
   Previous iterations:
