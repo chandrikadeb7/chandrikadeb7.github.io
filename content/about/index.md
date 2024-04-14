@@ -2,22 +2,22 @@
 title: 'About Me'
 avatar: 'me.jpg'
 skills:
-  - Java Enterprise
-  - Spring MVC & Maven
-  - Jenkins (CI/CD)
-  - Kafka & Couchbase
-  - JUnit & TestNG
-  - IntelliJ Idea
-  - Golang
+  - Market Research
+  - Data Analysis
+  - Brand Management
+  - Digital Marketing
+  - SPSS
+  - Tableau
+  - MS Office
   - Python
 ---
 
-Hello! Interestingly, I got introduced to programming in my freshman year at [Birla Institute Of Technology,  Mesra](https://www.bitmesra.ac.in/) where I completed my Bachelors in Computer Science and Engineering (2016-2020) with [86.3% aggregate](https://drive.google.com/file/d/1G4UBPBP0mvWZLRdkF_EcpmKKGp7_OA8U/view?usp=sharing).
+ With a core specialization in Marketing & Strategy, I've orchestrated impactful strategies in brand perceptions during my MBA summer internship for [Tata Structura](https://www.tatastructura.com) at [Tata Steel](https://drive.google.com/file/d/1xhGTFz7pe6kP7bZ4peDgJ7hlG630K8rz/view?usp=sharing). 
 
-I'm currently working as a developer for **Bell Canada** in the Amdocs Digital Delivery unit. My responsibilty includes Java/Spring based microservices development & testing. 
+ I also spearheaded employer branding initiatives for [Aditya Birla Fashion and Retail](https://drive.google.com/file/d/1w-uN9jb86pxFXPYMDu_78P-d1CZJAx3V/view?usp=sharing), resulting in a remarkable 37% surge in consumer engagement during my remote live project as part of my MBA journey.
+ 
+ During my tenure at [Amdocs](https://www.amdocs.com), where I served as a Software Developer, I had the honor of being selected as one of 16 elite [Innovation Agents](https://drive.google.com/file/d/16BGu5InZZDGCtoWas560ezwKsgVBKbI9/view?usp=sharing).
+ 
+ Moreover, my role as a [Placement Coordinator](https://drive.google.com/file/d/1iRTZfE7v5Y99BYZVxevaGBVtF90t-TOb/view?usp=sharing) at IIM Rohtak saw me cultivate over 30 new corporate relationships, culminating in a remarkable 42% boost in campus placements.
 
-I'm also an [Innovation Agent](https://drive.google.com/file/d/117KS9QnDrcg7dllcAzGz_b7qQPgR3pGs/view?usp=sharing) fostering the culture of creativity and innovation at Amdocs, India.
-
-I have been awarded as Winner in [Innovation Nugget](https://drive.google.com/file/d/1PzTZkXlQV9ldZxqmBbbO94uIqrhSwvcq/view?usp=sharing), Creativity Jam, [Design Thinking Hackathon](https://drive.google.com/file/d/1hXCATvKwzHCvctHtElsqFg5YIqabz22O/view?usp=sharing) and Runners-Up in [Project ICE Fair](https://drive.google.com/file/d/1exB19OoQ5dzU2mg4qbdkNutA25TGBWV3/view?usp=sharing) by Amdocs.
-
-Here is a list of the technologies that I'm familiar with!
+My skills are not limited to this list!

@@ -1,12 +1,12 @@
 ---
-title: 'Hello World! My name is'
+title: 'Namaste! My name is'
 name: 'Chandrika Deb'
-subtitle: 'I love exploring new things!'
-buttonText: 'Contact Me'
+subtitle: 'MBA | Marketing Enthusiast | Freelance Blogger'
+buttonText: 'Mail Me'
 ---
 
-I'm an India based software developer with a goal-driven creative mindset and passion for learning and innovating.
+Glad to e-meet you! 
 
-Currently working as a Software Developer at [Amdocs](https://www.amdocs.com/) and as a Freelance Content Writer for [Pepper Content](https://www.peppercontent.io).
+I am Chandrika Deb, an alumnus of [IIM Rohtak](http://www.iimrohtak.ac.in), currently spearheading impactful marketing initiatives at [Tata Steel](https://www.tatasteel.com). 
 
-Outside work, I occasionally blog on [Medium](https://chandrikadeb7.medium.com/). Off-screen, I sketch my thoughts [here](https://pin.it/4W1Rxtj)!
+When not decoding the customer journey, you can find me sketching on [Pinterest](https://pin.it/4W1Rxtj) or writing technical blogs for [LambdaTest](https://www.lambdatest.com) and other freelance clients.
