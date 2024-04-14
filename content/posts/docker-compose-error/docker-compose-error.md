@@ -1,4 +1,4 @@
-<!-- ---
+---
 title: Docker Compose Error
 description: docker-compose version discrepancies
 date: '2019-12-13'
@@ -35,4 +35,4 @@ version: '3.6' # highlight-line
 services:
   wordpress:
     build:
-``` -->
+```
