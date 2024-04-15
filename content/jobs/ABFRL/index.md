@@ -4,7 +4,7 @@ title: 'Employer Branding Intern'
 company: 'ABFRL'
 location: 'Remote'
 range: 'July - September 2023'
-url: 'https://abrfl.com/'
+url: 'https://abfrl.com/'
 ---
 
 - Amplified the STRIDES program value, aiding potential recruits in understanding career growth opportunities
