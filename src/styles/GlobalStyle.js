@@ -176,7 +176,7 @@ const GlobalStyle = createGlobalStyle`
 
   .medium-heading {
     margin: 0;
-    font-size: clamp(40px, 8vw, 60px);
+    font-size: clamp(40px, 8vw, 50px);
   }
 
   .numbered-heading {
