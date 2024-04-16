@@ -12,4 +12,4 @@ tech:
   - TensorFlow
 ---
 
-An application that recommends personalised skincare and makeup products based on the skin metrics inferred from user’s selfie, using Computer Vision algorithms submitted for Yash Technologies case competition TechnoThrive.
+An application that recommends personalised skincare and makeup products based on the skin metrics inferred from user’s selfie, using Computer Vision algorithms submitted for Yash Technologies Case Competition **TechnoThrive**.

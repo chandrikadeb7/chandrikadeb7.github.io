@@ -11,6 +11,6 @@ tech:
   - RICE
 ---
 
-Banking Application Enhancement for increased engagement time/customer for IDFC First Bank App using various product modifications for customer retention strategy
+Banking Application Enhancement for increased engagement time/customer for **IDFC FAME Product Track** Bschool Case Competition
 
-Proposed enhanced chatbot, unique spending options beneficial for users, and geolocation based cashbacks and coupons reward store prompts.
+Proposed enhanced chatbot, unique spending options beneficial for users, and geolocation based cashbacks and coupons reward store prompts

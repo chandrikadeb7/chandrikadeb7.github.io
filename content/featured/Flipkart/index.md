@@ -11,7 +11,5 @@ tech:
   - Financial Implication
 ---
 
-An employer today could easily have young graduates working side by side with great-grandparents. 
-
-The goal here is to Personalize Indian Employee Rewards with varied short-term and long-term incentives aligned with age and values, personality traits, etc. for optimal engagement.
+Personalizing Flipkart India Employee Rewards with varied short-term and long-term incentives aligned with their age, career stage, personality traits, etc. for optimal engagement as part of **Flipkart WiRED 7.0 HR Track** Bschool Case Competition
 

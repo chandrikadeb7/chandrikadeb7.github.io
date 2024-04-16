@@ -6,7 +6,7 @@ external: 'https://docs.google.com/presentation/d/1BoHWWokNWOHcMYUhMUO4taLX_-Ple
 tech:
   - Strategy
   - Marketing
-  - Green Steel
+  - Sustainability
 company: 'Case Competition'
 showInProjects: true
 ---
