@@ -2,7 +2,7 @@
 date: '2'
 title: 'iIFA: Integrated IDFC First Assistant'
 cover: './idfc.png'
-external: 'https://spotify-profile.herokuapp.com/'
+external: 'https://docs.google.com/presentation/d/1VBxFohznvvVg8Kxf5CPwx2UAgbv2ReTx6vzcp8A7u70/edit?usp=sharing'
 tech:
   - Review Scraping
   - User Persona

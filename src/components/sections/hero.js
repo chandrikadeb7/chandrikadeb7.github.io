@@ -70,9 +70,10 @@ const Hero = () => {
 
       <p>
         I am Chandrika Deb, an alumnus of {' '} <a href="http://www.iimrohtak.ac.in">
-        IIM Rohtak</a>, {' '} currently spearheading impactful marketing initiatives at {' '}
+        IIM Rohtak</a> {' '} and {' '} <a href="https://www.bitmesra.ac.in">BIT Mesra</a> {' '} currently spearheading impactful marketing initiatives at {' '}
         <a href="https://www.tatasteel.com">Tata Steel</a>.
       </p>
+
 
       <p>
         When not decoding the customer journey, you can find me sketching on {' '}
