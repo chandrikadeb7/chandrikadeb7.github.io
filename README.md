@@ -46,6 +46,20 @@ Yes, you can fork this repo. Please give proper credit by linking back to [britt
    npm start
    ```
 
+## For Windows Installation
+1. Then for gatsby-cli, you can use the command : 
+   ```sh
+   yarn global add gatsby-cli
+   ```
+2. For node modules, you can use the command: 
+   ```sh
+   yarn install
+   ```
+3. For running the portfolio locally, you can use the command: 
+   ```sh
+   yarn start
+   ```
+
 ## 🚀 Building and Running for Production (GitHub Pages)
 
 1. Generate a full static production build
