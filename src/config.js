@@ -1,27 +1,28 @@
 module.exports = {
-  email: 'chandrikadeb7@gmail.com',
+  email: 'agodwin113@gmail.com',
 
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/chandrikadeb7',
+      url: 'https://github.com/Alexgodwin113',
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/chandrikadeb7',
-    },
-    {
-      name: 'Twitter',
-      url: 'https://twitter.com/chandrikadeb7',
+      url: 'https://www.instagram.com/_alexgodwin_/',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/chandrika-deb',
+      url: 'https://www.linkedin.com/in/alex-godwin/',
     },
-    {
-      name: 'Codepen',
-      url: 'https://codepen.io/chandrikadeb7',
-    },
+      // {
+      //   name: 'Calendly',
+      //   url: '',
+      // },
+      
+      // {
+      //   name: 'Medium',
+      //   url: '',
+      // },
   ],
 
   navLinks: [

@@ -125,8 +125,8 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['Market Research', 'Data Analysis', 'Brand Management', 'Digital Marketing', 
-  'SPSS', 'Tableau', 'MS Office', 'Python'];
+  const skills = ['Backend Development', 'Machine Learning', 'Azure App Services', 'Business Analysis', 
+  'Techical Sales', 'Content Creation', 'Videography', 'Designing'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -134,35 +134,25 @@ const About = () => {
 
       <div className="inner">
         <StyledText>
-          <div>
+        <div>
             <p>
-            With a core specialization in Marketing &amp; Strategy, I've orchestrated impactful
-             strategies in brand perceptions during my MBA summer internship for {' '}
-             <a href="https://www.tatastructura.com">Tata Structura</a> {' '} at{' '} 
-             <a href="https://drive.google.com/file/d/1xhGTFz7pe6kP7bZ4peDgJ7hlG630K8rz/view?usp=sharing">Tata Steel</a>.
+              As a Computer Science undergraduate at <a href="https://www.surrey.ac.uk">University of Surrey</a>, I have secured a Technical Solutions placement at <a href="https://www.microsoft.com">Microsoft</a> starting in July 2024.
             </p>
 
             <p>
-            I also spearheaded employer branding initiatives for {' '}
-            <a href="https://drive.google.com/file/d/1w-uN9jb86pxFXPYMDu_78P-d1CZJAx3V/view?usp=sharing">
-              Aditya Birla Fashion and Retail</a>, {' '} resulting in a remarkable 37% surge in consumer engagement 
-              during my remote live project as part of my MBA journey.
+              I have also worked as a Lab Demonstrator, assisting students with various modules and mentoring them to guide their early career opportunities.
             </p>
 
             <p>
-            During my tenure at {' '} <a href="https://www.amdocs.com">Amdocs</a>, {' '} 
-            where I served as a Software Developer, I had the honor of being selected as one of 16 elite {' '} 
-            <a href="https://drive.google.com/file/d/16BGu5InZZDGCtoWas560ezwKsgVBKbI9/view?usp=sharing">Innovation Agents</a>.
+              During my second year, I served as the Vice President of the <a href="https://surreycompsoc.org/">Surrey Computer Science Society</a>, organizing hackathons, placement talks, and networking events. Additionally, I worked on open days, interacting with prospective students and their parents.
             </p>
 
             <p>
-            Moreover, my role as a {' '} <a href="https://drive.google.com/file/d/1iRTZfE7v5Y99BYZVxevaGBVtF90t-TOb/view?usp=sharing">
-              Placement Coordinator</a> {' '} at IIM Rohtak saw me cultivate over 30 new corporate relationships, culminating in a 
-              remarkable 42% boost in campus placements.
+              As an international student in the UK, I have explored various pathways to excel in my career, making the most of every opportunity to advance myself.
             </p>
-
             <p>My skills are not limited to this list!</p>
-          </div>
+      </div>
+
 
           <ul className="skills-list">
             {skills && skills.map((skill, i) => <li key={i}>{skill}</li>)}
@@ -173,7 +163,7 @@ const About = () => {
           <div className="wrapper">
             <StaticImage
               className="img"
-              src="../../images/me.jpg"
+              src="../../images/me.jpeg"
               width={500}
               quality={95}
               formats={['AUTO', 'WEBP', 'AVIF']}
