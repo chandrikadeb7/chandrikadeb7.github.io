@@ -1,15 +1,16 @@
 ---
 date: '1'
-title: 'La Dérma: Beauty with AI'
+title: 'Echoes of Change'
 cover: './yash.png'
-github: 'https://github.com/chandrikadeb7/La-Derma'
-external: 'https://docs.google.com/presentation/d/1q-de17co3sbWG5tAgwR_O8jbMF_tyaIn_Sgyzeg9uuI/edit?usp=sharing'
+# github: 'https://github.com/Alexgodwin113/EchoesofChange'
+cta : 'https://github.com/Alexgodwin113/EchoesofChange'
 tech:
-  - Python
+  - Django
   - JavaScript
-  - React
-  - OpenCV
-  - TensorFlow
+  - CSS 
+  - Gemini API
+  - Stripe API
+  - Google Maps API
 ---
 
-An application that recommends personalised skincare and makeup products based on the skin metrics inferred from user’s selfie, using Computer Vision algorithms submitted for Yash Technologies Case Competition **TechnoThrive**.
+Echoes Of Change is a Django-based platform addressing SDG3 and SDG10 by matching volunteers with initiatives suited to their skills and interests. It features real-time impact score updates, a unique leaderboard to encourage participation, and timesheets for logging activities, enhancing community engagement and measuring social impact effectively

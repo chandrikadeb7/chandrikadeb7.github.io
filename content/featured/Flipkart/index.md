@@ -1,15 +1,15 @@
 ---
 date: '3'
-title: 'MYOB: Make Your Own Basket'
-cover: './flipkart.png'
-external: 'https://docs.google.com/presentation/d/1ELoytkCyrR6PysGE34kiz_b6PXTBmbf_SWKGwSu9SeE/edit?usp=sharing'
-cta: 'https://chandrikadeb7.gumroad.com/l/mbaSlides?layout=profile'
+title: 'Morse Code Detection System'
+cover: 'raspberry.jpg'
+external: 'https://github.com/Alexgodwin113/morsecode'
+cta: 'https://github.com/Alexgodwin113/morsecode'
+github: 'https://github.com/Alexgodwin113/morsecode'
 tech:
-  - Research
-  - SPSS
-  - Clustering
-  - Financial Implication
+  - ARM Assembly
+  - Raspberry Pi
+  - Embedded Systems
 ---
 
-Personalizing Flipkart India Employee Rewards with varied short-term and long-term incentives aligned with their age, career stage, personality traits, etc. for optimal engagement as part of **Flipkart WiRED 7.0 HR Track** Bschool Case Competition
+Created a Morse Code Detection system on a Raspberry Pi environment, using breadboard setup with a push-button for input and a 7-segment display for output. These inputs are processed by a program written in ARM assembly language running on the Raspberry Pi. The Morse code is decoded in real-time and displayed on the 7-segment display, providing an interactive way to visualize Morse code communication.
 
