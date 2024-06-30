@@ -1,8 +1,8 @@
 ---
 date: '2020-09-05'
 title: 'Information Technology Intern'
-company: 'Farnborough College'
-location: 'Farnborough, Surrey'
+company: 'FCOT'
+location: 'Farnborough College, Surrey'
 range: 'Aug 2023 - Sep 2023'
 url: 'https://www.farn-ct.ac.uk/'
 ---
