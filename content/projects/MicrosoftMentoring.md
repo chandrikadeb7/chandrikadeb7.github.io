@@ -9,5 +9,5 @@ company: 'Certification'
 showInProjects: true
 ---
 
-How to reposition hollow structural tubes brand in retail using its brand elements, content marketing, and several online/offline touchpoints
+Participated in a 3 month mentoring programme where I had regular meetings with a Microsoft Employee to discuss career oporrtunities and improving personal skills.
 
