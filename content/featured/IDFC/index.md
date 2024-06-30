@@ -1,16 +1,13 @@
 ---
-date: '2'
-title: 'iIFA: Integrated IDFC First Assistant'
+date: '1'
+title: 'StagAI'
 cover: './idfc.png'
-external: 'https://docs.google.com/presentation/d/1VBxFohznvvVg8Kxf5CPwx2UAgbv2ReTx6vzcp8A7u70/edit?usp=sharing'
+external: 'https://docs.google.com/presentation/d/1VGfhFMMolxOLXnumn_UJC0AIN8wjOjEo/edit?usp=sharing&ouid=109335255489457418816&rtpof=true&sd=true'
+cta : 'https://drive.google.com/file/d/15LJ7DEr8-NabvoEojsxcJ06JoPcmDCgx/view'
 tech:
-  - Review Scraping
-  - User Persona
-  - Figma
-  - GTM
-  - RICE
+  - Alpaca 7B
+  - Microsoft Azure
+
 ---
 
-Banking Application Enhancement for increased engagement time/customer for **IDFC FAME Product Track** Bschool Case Competition
-
-Proposed enhanced chatbot, unique spending options beneficial for users, and geolocation based cashbacks and coupons reward store prompts
+StagAI is an app concept developed in a 24-hour hackathon. It uses generative AI to power various features, including AI-assisted virtual learning environments. The project includes a business plan with cost calculations for AI model training and implementation, demonstrating its potential for real-world application

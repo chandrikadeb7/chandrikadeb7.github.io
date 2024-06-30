@@ -38,6 +38,12 @@ const StyledContactSection = styled.section`
   .email-link {
     ${({ theme }) => theme.mixins.bigButton};
     margin-top: 50px;
+    margin-right: 10px; /* Add margin to the right */
+  }
+
+  .appointment-link {
+    ${({ theme }) => theme.mixins.bigButton};
+    margin-top: 50px;
   }
 `;
 
@@ -60,12 +66,16 @@ const Contact = () => {
       <h2 className="title">Get In Touch</h2>
 
       <p>
-        My inbox is open in case you have any questions or just wanna say a hello!
-        Let's get in touch if you have any relevant roles for me!
-      </p>
+      My inbox is open if you have any questions or simply want to say hello! <br></br>  
+      Feel free to book a meeting if you have any roles or opportunities to discuss, or if you need advice on CVs, job applications, and placement searches.
+    </p>
 
       <a className="email-link" href={`mailto:${email}`}>
-        Mail Me!
+        Mail Me
+      </a>
+
+      <a className="appointment-link" href="https://calendly.com/alexgodwin/30min ">
+        Let's Talk!
       </a>
     </StyledContactSection>
   );
