@@ -1,5 +1,5 @@
 ---
-date: '2022-02-05'
+date: '2020-09-05'
 title: 'Information Technology Intern'
 company: 'Farnborough College'
 location: 'Farnborough, Surrey'
