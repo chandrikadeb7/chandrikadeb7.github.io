@@ -113,6 +113,7 @@ const StyledPic = styled.div`
   }
 `;
 
+
 const About = () => {
   const revealContainer = useRef(null);
   const prefersReducedMotion = usePrefersReducedMotion();
