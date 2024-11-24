@@ -1,12 +1,12 @@
 ---
 date: '2024-07-01'
-title: 'Technical Solutions Specialist'
+title: 'Azure App Innovation Specialist'
 company: 'Microsoft'
 location: 'Paddington, London'
 range: 'Jul 2024 - Present'
 url: 'https://www.microsoft.com/en-gb'
 ---
 
-- Contributes to demonstrations of solutions based on specific Microsoft products through initial engagements and coaching from senior colleagues.
-- Reviews customer interactions and raises competitive information to account teams to contribute to development and landing of compete strategies.
-- Leverages partner/customer teams as needed to prove product capabilities and integration into customer environment.
+- Actively learning Microsoft DevBox, Azure OpenAI Studio, and other Azure solutions to enhance expertise.
+- Supporting specialists in the Retail and Consumer Goods industry with technical expertise on Azure
+- Conducting technical demos to showcase Azure capabilities and solutions.

@@ -1,15 +1,15 @@
 ---
 date: '3'
-title: 'Morse Code Detection System'
+title: 'Automated Image Classification with BreastMNIST'
 cover: 'raspberry.jpg'
-external: 'https://github.com/Alexgodwin113/morsecode'
-cta: 'https://github.com/Alexgodwin113/morsecode'
-github: 'https://github.com/Alexgodwin113/morsecode'
+external: 'https://github.com/Alexgodwin113/ML-Coursework'
+cta: 'https://github.com/Alexgodwin113/ML-Coursework'
+github: 'https://github.com/Alexgodwin113/ML-Coursework'
 tech:
-  - ARM Assembly
-  - Raspberry Pi
-  - Embedded Systems
+  - Machine Learning
+  - Image Classification
+  - Data Preprocessing
 ---
 
-Created a Morse Code Detection system on a Raspberry Pi environment, using breadboard setup with a push-button for input and a 7-segment display for output. These inputs are processed by a program written in ARM assembly language running on the Raspberry Pi. The Morse code is decoded in real-time and displayed on the 7-segment display, providing an interactive way to visualize Morse code communication.
+Developed and implemented a machine learning model for classifying breast ultrasound images using the BreastMNIST dataset. Improved baseline performance by optimizing a ResNet-18 architecture, achieving AUC ≥ 0.901 and accuracy ≥ 0.863. The project included hyperparameter tuning, metric computation (AUPR, precision, recall, F1 score), 5-fold cross-validation, and result visualization through ROC and PR curves. Presented findings through a detailed poster, showcasing technical insights and comparative analysis.
 
