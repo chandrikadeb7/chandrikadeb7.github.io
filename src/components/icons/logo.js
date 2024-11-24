@@ -16,7 +16,7 @@ const IconLogo = () => (
       </g>
     </g>
     <text x="14" y="65" fill="currentColor" fontSize="50px" fontFamily="Consolas, serif">
-      AG
+      A
     </text>
   </svg>
 );

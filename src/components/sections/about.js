@@ -125,8 +125,8 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['Backend Development', 'Machine Learning', 'Azure App Services', 'Business Analysis', 
-  'Techical Sales', 'Content Creation', 'Videography', 'Designing'];
+  const skills = ['Microsoft Azure',  'Developer Productivity','Backend Development', 'Business Analysis', 'Content Creation', 'Public Speaking', 
+  'Techical Sales',  'Videography'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>

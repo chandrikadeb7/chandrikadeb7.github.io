@@ -3,10 +3,10 @@
   "description": "Personal Website V2",
   "version": "1.0.0",
   "author": "Chandrika Deb <chandrikadeb7@gmail.com>",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/chandrikadeb7/chandrikadeb7.github.io"
-  },
+ "repository": {
+  "type": "git",
+  "url": "https://github.com/alexgodwin/alexgodwin.github.io"
+},
   "keywords": [
     "gatsby"
   ],
