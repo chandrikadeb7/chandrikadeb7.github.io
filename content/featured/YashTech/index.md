@@ -4,6 +4,10 @@ title: 'Echoes of Change'
 cover: './yash.png'
 # github: 'https://github.com/Alexgodwin113/EchoesofChange'
 cta : 'https://github.com/Alexgodwin113/EchoesofChange'
+<<<<<<< HEAD
+=======
+external: 'https://github.com/Alexgodwin113/EchoesofChange'
+>>>>>>> aaedfbec547aa28acfa5327d3a5b1a8fe45071ba
 tech:
   - Django
   - JavaScript

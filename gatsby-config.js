@@ -2,10 +2,15 @@ const config = require('./src/config');
 
 module.exports = {
   siteMetadata: {
-    title: 'Chandrika Deb',
+    title: 'Alex Godwin',
     description:
+<<<<<<< HEAD
       'Chandrika Deb is an IIM alumnus who spearheads marketing initiatives at Tata Steel and is also a freelance tech blogger.',
     siteUrl: 'https://alexgodwin.github.io', // No trailing slash allowed!
+=======
+      'Alex Godwin is a thrid year undergraduate at Univeristy of Surrey currently doing a placement at Microsoft',
+    siteUrl: 'https://chandrikadeb7.github.io', // No trailing slash allowed!
+>>>>>>> aaedfbec547aa28acfa5327d3a5b1a8fe45071ba
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@chandrikadeb7',
   },
