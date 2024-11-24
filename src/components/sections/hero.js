@@ -18,7 +18,7 @@ const StyledHeroSection = styled.section`
   }
 
   h1 {
-    margin: 0 0 30px 4px;
+    margin: 20px 0 30px 4px;
     color: var(--green);
     font-family: var(--font-mono);
     font-size: clamp(var(--fz-sm), 5vw, var(--fz-md));
@@ -59,9 +59,9 @@ const Hero = () => {
     return () => clearTimeout(timeout);
   }, []);
 
-  const one = <h1>Namaste! My name is</h1>;
-  const two = <h2 className="big-heading">Chandrika Deb</h2>;
-  const three = <h3 className="medium-heading">MBA | Marketing Enthusiast | Freelance Blogger</h3>;
+  const one = <h1>Hello! My name is</h1>;
+  const two = <h2 className="big-heading">Alex Godwin</h2>;
+  const three = <h3 className="medium-heading">Computer Science Undergraduate | Azure App Innovation Specialist</h3>;
   const four = (
     <>
       <p>
@@ -69,27 +69,26 @@ const Hero = () => {
       </p>
 
       <p>
-        I am Chandrika Deb, an alumnus of {' '} <a href="http://www.iimrohtak.ac.in">
-        IIM Rohtak</a> {' '} and {' '} <a href="https://www.bitmesra.ac.in">BIT Mesra</a> {' '} currently spearheading impactful marketing initiatives at {' '}
-        <a href="https://www.tatasteel.com">Tata Steel</a>.
+      I am Alex Godwin, a third-year undergraduate at <a href="https://www.surrey.ac.uk">Surrey University</a>, currently doing a Technical Solutions placement at <a href="https://www.microsoft.com">  Microsoft</a>. 
+    </p>
+
+
+
+      <p> When not working on solutions, You can find me writing blogs on {' '}
+        <a href="https://medium.com/@alexgodwinsjc611">Medium</a> {' '} , capturing images on {' '}<a href="http://vsco.co/alex-godwin">VSCO</a> {' '}, or rating movies on {' '}
+        <a href="https://boxd.it/36Rin">Letterboxd</a>.
       </p>
 
-
       <p>
-        When not decoding the customer journey, you can find me sketching on {' '}
-        <a href="https://pin.it/4W1Rxtj">Pinterest</a> {' '} or writing technical blogs for {' '}
-        <a href="https://www.lambdatest.com">LambdaTest</a> {' '} and other freelance clients.
+      Additionally, I mentor students applying for placements and jobs in the UK, offering guidance on crafting compelling CVs, effective networking strategies, and finding opportunities.
       </p>
     </>
   );
   const five = (
-    <a
-      className="email-link"
-      href="https://chandrikadeb7.gumroad.com"
-      target="_blank"
-      rel="noreferrer">
-      Check out my products!
-    </a>
+    <a className="email-link" href="https://linktr.ee/alex_godwin?utm_source=linktree_admin_share" rel="noreferrer">
+  Reach out to me!
+</a>
+
   );
 
   const items = [one, two, three, four, five];
