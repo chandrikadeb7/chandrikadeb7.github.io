@@ -125,8 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['Market Research', 'Data Analysis', 'Brand Management', 'Digital Marketing', 
-  'SPSS', 'Tableau', 'MS Office', 'Python'];
+  const skills = ['SEO', 'Content Marketing', 'Conversion Rate Optimization', 'Meta Ads', 'Zoho CRM', 'Tableau', 'HTML/CSS', 'Python'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -137,13 +136,13 @@ const About = () => {
           <div>
             <p>
             With a core specialization in Marketing &amp; Strategy, I've orchestrated impactful
-             strategies in brand perceptions during my MBA summer internship for {' '}
-             <a href="https://www.tatastructura.com">Tata Structura</a> {' '} at{' '} 
-             <a href="https://drive.google.com/file/d/1xhGTFz7pe6kP7bZ4peDgJ7hlG630K8rz/view?usp=sharing">Tata Steel</a>.
+             digital marketing campaigns for {' '}
+             <a href="https://digeca.tatasteel.com">DigECA</a> {' '}, an e-Commerce steel buying website for MSMEs at{' '} 
+             <a href="https://www.tatasteel.com">Tata Steel</a>.
             </p>
 
             <p>
-            I also spearheaded employer branding initiatives for {' '}
+            I have also spearheaded employer branding initiatives for {' '}
             <a href="https://drive.google.com/file/d/1w-uN9jb86pxFXPYMDu_78P-d1CZJAx3V/view?usp=sharing">
               Aditya Birla Fashion and Retail</a>, {' '} resulting in a remarkable 37% surge in consumer engagement 
               during my remote live project as part of my MBA journey.

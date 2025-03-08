@@ -1,13 +1,13 @@
 ---
-date: '2023-04-17'
-title: 'Sales & Marketing Intern'
+date: '2024-05-07'
+title: 'Marketing Manager, Digital Initiatives'
 company: 'Tata Steel'
 location: 'Kolkata, India'
-range: 'April - June 2023'
+range: 'May 2024 - Present'
 url: 'https://tatasteel.com/'
 ---
 
-- Conducted a gap analysis of end consumers’ brand perceptions on Tata Structura in Kolkata and its nearby regions
-- Devised retail brand re-positioning strategy using 30+ dealers and 80+ end consumer insights gathered
-- Led re-branding efforts with logo and tagline revamp, bolstered by YouTube ads and positive consumer stories
-- Bagged a Pre-Placement Offer (PPO) among the top talents due to exceptional performance during the internship stint
+- Spearheaded e-commerce website DigECA launch for MSMEs buying Tata Astrum, Tata Steelium, and Galvano
+- Optimized the DigECA platform through UI/UX design, customer journey mapping, and CMS development
+- Onboarded 800+ MSMEs, achieving 25 Cr. in GMV within 90 days, with 55% organic leads via digital marketing
+- Implemented Zoho optimizing 360-degree MSME customer insights using CRM and marketing automation expertise
